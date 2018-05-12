@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4383
     wikipedia: http://en.wikipedia.org/wiki/George_Borrow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13957#The-Pocket-George-Borrow--13-Passages-chosen-from-the-works-of-George-Borrow
 gutenberg_issued: '2004-11-04'
 gutenberg_type: Text
 identifiers:

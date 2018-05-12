@@ -1,0 +1,40 @@
+_repo: The-Pocket-George-Borrow--13-Passages-chosen-from-the-works-of-George-Borrow_13957
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Thomas, Edward
+    aliases:
+    - Thomas, Philip Edward
+    - Eastaway, Edward
+    birthdate: 1878
+    deathdate: 1917
+    gutenberg_agent_id: '6876'
+    url: http://www.gutenberg.org/2009/agents/6876
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '2004-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borrow, George, 1803-1881 -- Selections'
+- !lcsh 'Authors, English -- 19th century'
+- !lcc 'PR'
+title: "The Pocket George Borrow\r\nPassages chosen from the works of George Borrow"
+url: http://www.gutenberg.org/ebooks/13957
